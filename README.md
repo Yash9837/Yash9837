@@ -40,9 +40,9 @@
 
 ### 🧩 Featured Projects
 
-- **[ThriveUp](https://github.com/yourusername/thriveup)** – Campus Event iOS App (🏆 Best Overall App @ App Fair, SRMIST)
-- **[RuralKart](https://github.com/yourusername/ruralkart)** – E-commerce App built in Flutter
-- **[Kathaanam](https://github.com/yourusername/kathaanam)** – Podcast App with AI-based audio tagging
+- **[ThriveUp](https://github.com/Yash9837/thriveup-ios)** – Campus Event iOS App (🏆 Best Overall App @ App Fair, SRMIST)
+- **[RuralKart](https://github.com/Yash9837/ruralkart-ios)** – E-commerce App built in Flutter
+- **[Kathaanam](https://github.com/Yash9837/kathanam-ios)** –  App with AI-based Sign Language
 - **[Pet Shop Web](https://github.com/yourusername/petshop)** – Vue + Django pet store platform
 
 ---
@@ -57,9 +57,9 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yash-gupta-052a32142/)
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 📬 your.email@example.com
+- 📬 guptayas9837@gmail.com
 
 ---
 

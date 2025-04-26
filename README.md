@@ -42,7 +42,7 @@
 
 - **[ThriveUp](https://github.com/Yash9837/thriveup-ios)** – Campus Event iOS App (🏆 Best Overall App @ App Fair, SRMIST)
 - **[RuralKart](https://github.com/Yash9837/ruralkart-ios)** – E-commerce App built in Flutter
-- **[Kathaanam](https://github.com/Yash9837/kathanam-ios)** –  App with AI-based Sign Language
+- **[Kathaanam](https://github.com/Yash9837/khatanam-app)** –  App with AI-based Sign Language
 - **[Pet Shop Web](https://github.com/yourusername/petshop)** – Vue + Django pet store platform
 
 ---

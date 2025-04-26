@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Yash Gupta  
 ### Full-Stack & iOS Developer | AI Enthusiast | Open to Opportunities
 
 🚀 I’m passionate about building impactful web and mobile applications using technologies like React, Node.js, Swift, and Flutter. I also enjoy integrating AI and ML into real-world solutions using TensorFlow, CoreML, and OpenCV.

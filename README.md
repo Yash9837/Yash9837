@@ -1,40 +1,67 @@
-# 👋 Hi, I'm Yash Gupta  
-### Full-Stack & iOS Developer | AI Enthusiast | Open to Opportunities
-
-🚀 I’m passionate about building impactful web and mobile applications using technologies like React, Node.js, Swift, and Flutter. I also enjoy integrating AI and ML into real-world solutions using TensorFlow, CoreML, and OpenCV.
-
-## 🔧 Tech Stack
-- **Languages:** Swift, Dart, JavaScript, Python  
-- **Frameworks:** SwiftUI, UIKit, Flutter, React, Node.js  
-- **Databases:** Firebase, MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Figma, Xcode, VS Code, Postman  
-- **AI/ML:** CoreML, OpenCV, TensorFlow
-
-## 💼 Experience
-- **iOS Intern @ Infosys** (May 2025)  
-  Worked in Agile environment, led team as Scrum Master, contributed to live projects.  
-- **iOS Trainee @ SRMIST iOS Center**  
-  Selected for Apple-powered program, built and deployed iOS apps.  
-- **Intern @ Niramaya & Medyaan**  
-  Developed full-stack and iOS applications for startups.  
-
-## 🏆 Achievements
-- 🏅 *Best Overall App* – App Fair SRMIST for ThriveUp  
-- 🥉 *3rd Position* – TechXcelerate 2025, BITS Hyderabad  
-- 🏅 *4th Position* – Ideation 2025, SRMIST
-
-## 📂 Featured Projects
-- [ThriveUp](https://github.com/yourusername/thriveup) – iOS app for campus event management  
-- [RuralKart](https://github.com/yourusername/ruralkart) – E-commerce Flutter app  
-- [Kathaanam](https://github.com/yourusername/kathaanam) – Podcast platform with AI tagging  
-- [Pet Shop Web](https://github.com/yourusername/petshop) – Vue.js + Django site with full admin features
-
-## 📫 Let’s Connect!
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)  
-- 📧 your.email@example.com
+<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
+<h3 align="center">Full-Stack & iOS Developer | AI Enthusiast | Lifelong Learner</h3>
 
 ---
 
-*Always building. Always learning. Open to collaborations and internships!*
+🎯 I'm a passionate developer focused on building scalable web and mobile apps, and integrating intelligent AI-driven features into real-world solutions.
+
+🔧 Currently wrapping up an iOS Developer Internship at Infosys, and continuously learning through hands-on projects, hackathons, and open-source contributions.
+
+---
+
+### 💡 What I Do
+
+- 🔬 Build iOS apps using **SwiftUI**, **UIKit**, and **CoreML**
+- 🛠 Develop full-stack web apps using **MERN Stack**, **PostgreSQL**, and **Django**
+- 🧠 Integrate AI/ML models using **TensorFlow**, **OpenCV**, and **CoreML**
+- 👨‍💻 Lead teams using **Agile** principles as Scrum Master
+- 📱 Deploy polished apps with clean UX and real-world use cases
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:**  
+`Swift` `Dart` `JavaScript` `Python`  
+
+**Mobile / Web:**  
+`SwiftUI` `UIKit` `Flutter` `React` `Node.js` `Vue.js`
+
+**Database & Cloud:**  
+`Firebase` `PostgreSQL` `MongoDB` `AWS`  
+
+**AI & ML:**  
+`TensorFlow` `CoreML` `OpenCV`  
+
+**Tools:**  
+`Git` `GitHub` `Xcode` `Figma` `Postman`
+
+---
+
+### 🧩 Featured Projects
+
+- **[ThriveUp](https://github.com/yourusername/thriveup)** – Campus Event iOS App (🏆 Best Overall App @ App Fair, SRMIST)
+- **[RuralKart](https://github.com/yourusername/ruralkart)** – E-commerce App built in Flutter
+- **[Kathaanam](https://github.com/yourusername/kathaanam)** – Podcast App with AI-based audio tagging
+- **[Pet Shop Web](https://github.com/yourusername/petshop)** – Vue + Django pet store platform
+
+---
+
+### 🏆 Achievements
+
+- 🏅 **Best Overall App** – App Fair 2025 @ SRMIST  
+- 🥉 **3rd Place** – TechXcelerate Hackathon @ BITS Hyderabad  
+- 🏅 **4th Place** – Ideation Challenge @ SRMIST
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📬 your.email@example.com
+
+---
+
+> "Always building. Always learning. Open to collaborations and internships!"
 
